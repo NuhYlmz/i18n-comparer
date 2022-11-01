@@ -1,0 +1,12 @@
+{
+  "_locale": "en",
+  "_namespace": "account",
+  "pages": {
+    "home": {
+      "title": "My Account"
+    },
+    "apis": {
+      "apis": "APIs"
+    }
+  }
+}

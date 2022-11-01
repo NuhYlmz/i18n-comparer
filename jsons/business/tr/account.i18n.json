@@ -1,0 +1,12 @@
+{
+  "_locale": "tr",
+  "_namespace": "account",
+  "pages": {
+    "home": {
+      "createShopName": "Yeni iş yeri ekle"
+    },
+    "apis": {
+      "apis": "API'ler"
+    }
+  }
+}

@@ -12,3 +12,21 @@ npm i
 ```
 npm start
 ```
+
+>Test Url: http://localhost:3000/test
+
+## Example Tree
+
+    .
+    ├── ...
+    ├── jsons                    
+    │   ├── business
+    │   │   ├── tr
+    │   │   │   ├── account.json
+    │   │   │   └── ...
+    │   │   ├── en
+    │   │   │   ├── account.json
+    │   │   │   └── ...
+    │   │   └── ... 
+    │   └── ...            
+    └── ...
