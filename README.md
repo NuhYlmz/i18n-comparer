@@ -1,5 +1,5 @@
 # I18N COMPARER
-Can be used for compare files and find your missing language files.
+Can be used for compare i18n json files and find which translations are missing.
 
 ## Setup Steps
 ---
